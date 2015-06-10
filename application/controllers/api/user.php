@@ -33,7 +33,7 @@ class User extends REST_Controller
     //
     //@ type :
     //#return type :
-    function data_get()
+    function index_get()
     {   
         // return araray ini
         $json_return_array = array();
